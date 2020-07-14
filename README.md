@@ -7,7 +7,7 @@ building segmentation dataset
 
 这个数据集是本人亲自绘制，如果你想用，并且发论文的话，请告知我（CSU-DP实验室发布数据集）
 
-注：绘制精度很高 0.2m
+注：绘制精度很高 0.22m
 
 下载链接：download dataset link（百度云盘）
 
